@@ -1,0 +1,5 @@
+# Quarto temporary files
+/website/.quarto/
+
+# Generated website
+/website/_site/
