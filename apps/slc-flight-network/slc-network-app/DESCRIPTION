@@ -1,0 +1,18 @@
+Type: Shiny
+Title: SLC Flight Network Explorer
+Version: 2.0.0
+Description: A Shiny application for exploring the historical network of
+    airports and airlines connected to Salt Lake City International Airport.
+    The app displays airport locations, route lines, flight-count classes,
+    selected-airport details, and annual and monthly time series using
+    precomputed slcflights-derived data. The deployed app reads prepared
+    .rds files and does not import slcflights at runtime.
+Imports:
+    bslib,
+    dplyr,
+    ggplot2,
+    plotly,
+    RColorBrewer,
+    sf,
+    shiny,
+    units
