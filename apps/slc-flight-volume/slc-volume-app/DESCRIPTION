@@ -1,0 +1,15 @@
+Type: Shiny
+Title: SLC Flight Volume Explorer
+Version: 1.0.0
+Description: A Shiny application for exploring Salt Lake City International
+    Airport flight-volume patterns by calendar date category. The app compares
+    daily main-flight and diverted-flight counts with same-year average daily
+    volumes, including weekday and holiday categories, using precomputed
+    slcflights-derived data. The deployed app reads prepared .rds files and
+    does not import slcflights at runtime.
+Imports:
+    dplyr,
+    ggplot2,
+    grid,
+    plotly,
+    shiny
