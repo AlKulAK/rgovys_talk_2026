@@ -1,0 +1,38 @@
+---
+pagetitle: "Interactive Tools for Exploring SLC's Flight Network and Weather"
+---
+
+# Interactive Tools for Exploring SLC's Flight Network and Weather
+
+This page provides access to three companion Shiny apps for the November 6, 2026, R Govys webinar, *Using R to Track Flights and Weather Across Salt Lake City's Flight Network*. The apps were developed by [Aleksey Kulyukin](https://orcid.org/0009-0009-4396-9878) at [Utah State University](https://www.usu.edu/)’s [Department of Mathematics & Statistics](https://artsci.usu.edu/math-stats/). They support interactive exploration of airport connections, flight-volume patterns, and the availability of weather observations across SLC's flight network.
+
+:::::: grid
+
+::: {.g-col-12 .g-col-md-4}
+### SLC Flight Network Explorer
+
+Explore airports connected to Salt Lake City over time. Examine the flight network across years, including routes, airlines, and airport connections.
+
+[Launch app](https://9ixde5-aleksey-kulyukin.shinyapps.io/slc-flight-network-2/){.btn .btn-primary}
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### SLC Flight Volume Explorer
+
+Examine daily flight activity at Salt Lake City for both main and diverted flights. Explore flight-volume patterns and unusually large diversion activity.
+
+[Launch app](https://9ixde5-aleksey-kulyukin.shinyapps.io/slc-flight-volume-2/){.btn .btn-primary}
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### SLC Airport & Weather Station Explorer
+
+Explore weather stations associated with airports in Salt Lake City's flight network. Examine how station relationships and the availability of daily and hourly weather reports vary over time.
+
+[Launch app](https://9ixde5-aleksey-kulyukin.shinyapps.io/slc-weather-explorer/){.btn .btn-primary}
+
+:::
+
+::::::
