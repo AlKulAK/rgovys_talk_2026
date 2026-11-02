@@ -28,7 +28,7 @@ GitHub Actions renders the Quarto website and publishes it through GitHub Pages.
 
 ## Presentation slides
 
-The slides for the webinar will be added to this repository in the near future.
+The [`slides/`](slides/) directory contains the slidedeck for the webinar.
 
 ## `scripts/`: Flight and weather data processing
 
