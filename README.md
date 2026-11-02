@@ -26,7 +26,7 @@ The website provides a single entry point to all three updated Shiny application
 
 GitHub Actions renders the Quarto website and publishes it through GitHub Pages.
 
-## Presentation slides
+## `slides/`: Presentation slides
 
 The [`slides/`](slides/) directory contains the slidedeck for the webinar.
 
