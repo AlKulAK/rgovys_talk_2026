@@ -4,8 +4,8 @@ The November 13, 2026, Graphics Group presentation reports **235,010,356 nationw
 
 Two BTS webpages were captured as PDFs on November 12, 2026. Both PDFs are included in this directory:
 
-1. [Reporting Carrier On-Time Performance: Table Profile](<OST_R_BTS_Transtats Data Table.pdf>) ([BTS webpage](https://www.transtats.bts.gov/TableInfo.asp?QO_fu146_anzr=b0-gvzr&V0s1_b0yB=D&gnoyr_VQ=FGJ)): **235,618,745 records** through August 2026.
-2. [Flight Delays at a Glance: Monthly](<OST_R_BTS_Transtats Home Drill Chart Month.pdf>) ([BTS webpage](https://www.transtats.bts.gov/HomeDrillChart_Month.asp)): **608,389 flight operations** in August 2026, with All Airports, All Carriers, and Arrivals selected.
+1. [Reporting Carrier On-Time Performance: Table Profile](<OST_R _BTS_Transtats Data Table.pdf>) ([BTS webpage](https://www.transtats.bts.gov/TableInfo.asp?QO_fu146_anzr=b0-gvzr&V0s1_b0yB=D&gnoyr_VQ=FGJ)): **235,618,745 records** through August 2026.
+2. [Flight Delays at a Glance: Monthly](<OST_R _BTS_Transtats Home Drill Chart Month.pdf>) ([BTS webpage](https://www.transtats.bts.gov/HomeDrillChart_Month.asp)): **608,389 flight operations** in August 2026, with All Airports, All Carriers, and Arrivals selected.
 
 Subtracting the August count gives the nationwide total through July 2026:
 
