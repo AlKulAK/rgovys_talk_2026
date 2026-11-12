@@ -28,7 +28,16 @@ GitHub Actions renders the Quarto website and publishes it through GitHub Pages.
 
 ## `slides/`: Presentation slides
 
-The [`slides/`](slides/) directory contains the slidedeck for the webinar.
+The [`slides/`](slides/) directory contains the [slidedeck for the webinar](slides/Kulyukin_RGovys_Slides.pdf), 
+along with a [closely related version](slides/Kulyukin_GraphicsGroup_Slides.pdf) 
+presented at the [University of Nebraska–Lincoln Graphics Group](https://isu-graphicsgroup.github.io/gg-blog/) 
+webinar on November 13, 2026.
+
+## `evidence/`: BTS flight counts
+
+The [`evidence/`](evidence/) directory contains two BTS webpage
+captures and a [brief note](evidence/README.md) documenting the
+flight counts reported in the Graphics Group presentation.
 
 ## `scripts/`: Flight and weather data processing
 
